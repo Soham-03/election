@@ -40,7 +40,7 @@ export default function VotingSimulator() {
       id: 2,
       color: 'bg-pink-100',
       candidates: [
-        { id: 1, name: 'सौ. इंदिरा पांडुरंग तारे', symbol: 'bjp.png' },
+        { id: 1, name: 'सौ. इंदिरा पांडुरंग तरे', symbol: 'bjp.png' },
         { id: 2, name: '' },
         { id: 3, name: '' },
         { id: 4, name: 'नोटा (NOTA)' },
